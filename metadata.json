@@ -1,0 +1,6 @@
+{
+  "name": "OmniSphere",
+  "description": "Collaborative social knowledge network for school students, college students, and professionals with study groups, DMs, gamified reputation, and female safety tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
